@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Codingyu\LaravelUEditor\Events;
+namespace Nosun\LaravelUEditor\Events;
 
 use Illuminate\Broadcasting\InteractsWithSockets;
 use Illuminate\Foundation\Events\Dispatchable;

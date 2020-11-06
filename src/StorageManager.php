@@ -9,15 +9,15 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Codingyu\LaravelUEditor;
+namespace Nosun\LaravelUEditor;
 
 use Illuminate\Support\Arr;
 use Illuminate\Support\Str;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Storage;
-use Codingyu\LaravelUEditor\Events\Catched;
-use Codingyu\LaravelUEditor\Events\Uploaded;
-use Codingyu\LaravelUEditor\Events\Uploading;
+use Nosun\LaravelUEditor\Events\Catched;
+use Nosun\LaravelUEditor\Events\Uploaded;
+use Nosun\LaravelUEditor\Events\Uploading;
 use Illuminate\Contracts\Filesystem\Filesystem;
 use Symfony\Component\HttpFoundation\File\UploadedFile;
 

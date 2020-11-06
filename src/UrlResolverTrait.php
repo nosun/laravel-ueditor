@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Codingyu\LaravelUEditor;
+namespace Nosun\LaravelUEditor;
 
 use Illuminate\Support\Str;
 use League\Flysystem\Adapter\Local as LocalAdapter;
